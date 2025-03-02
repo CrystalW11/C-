@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
