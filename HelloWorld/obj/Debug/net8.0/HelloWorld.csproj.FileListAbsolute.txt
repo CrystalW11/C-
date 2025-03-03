@@ -12,3 +12,4 @@ D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\r
 D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 D:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+d:\coding_dojo\C Sharp\C#\First_Project\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json

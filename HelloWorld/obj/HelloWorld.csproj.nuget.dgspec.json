@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "d:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "d:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "d:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "d:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\cryst\\.nuget\\packages\\",
-        "outputPath": "D:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "d:\\coding_dojo\\C Sharp\\C#\\First_Project\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programs\\NuGetPackages"
